@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "W5500-EVB-PICO")(type "KiCad")(uri "${KIPRJMOD}/lib/W5500-EVB-PICO/W5500-EVB-PICO.kicad_sym")(options "")(descr ""))
+)

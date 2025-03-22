@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "W5500-EVB-PICO")(type "KiCad")(uri "${KIPRJMOD}/lib/W5500-EVB-PICO")(options "")(descr ""))
+  (lib (name "MAB8SH")(type "KiCad")(uri "${KIPRJMOD}/lib/MAB8SH")(options "")(descr ""))
+)
